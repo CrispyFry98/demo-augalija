@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/demo-augalija/static/css/main.fc6f97a9.css",
+    "main.js": "/demo-augalija/static/js/main.f6fcf87a.js",
+    "static/media/spygliuociai-icon.jpg": "/demo-augalija/static/media/spygliuociai-icon.ed043bb5ddbcdd35eaa4.jpg",
+    "static/media/lapuociai-icon.jpg": "/demo-augalija/static/media/lapuociai-icon.86d4ef1a2849a70d5c15.jpg",
+    "static/media/map-item-img.png": "/demo-augalija/static/media/map-item-img.f4fa789b469d728835ca.png",
+    "static/media/gear-icon.png": "/demo-augalija/static/media/gear-icon.bfc7e2da9325c4f3146b.png",
+    "static/media/upload-icon.png": "/demo-augalija/static/media/upload-icon.d4d7bae17bd134bc31a2.png",
+    "static/media/minties-logo-img.png": "/demo-augalija/static/media/minties-logo-img.961204d59470272d5775.png",
+    "index.html": "/demo-augalija/index.html",
+    "main.fc6f97a9.css.map": "/demo-augalija/static/css/main.fc6f97a9.css.map",
+    "main.f6fcf87a.js.map": "/demo-augalija/static/js/main.f6fcf87a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc6f97a9.css",
+    "static/js/main.f6fcf87a.js"
+  ]
+}
